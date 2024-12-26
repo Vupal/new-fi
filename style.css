@@ -1,0 +1,40 @@
+.f{
+  font-size:20px;
+}
+.border{
+   border: 1px solid aqua;
+   width: 100%;
+  
+}
+.mrg{
+   margin-left:200px;
+}
+.border1{
+  border: 1px solid aqua;
+  height: 300px;
+  width: 400px;
+  
+  
+}
+
+.main-ima{
+  width:500px;
+  height:300px;
+}
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+
+.btn:hover {
+  background-color: RoyalBlue;
+}
+li:hover {
+  background-color: blue;
+  
+}
